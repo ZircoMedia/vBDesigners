@@ -49,5 +49,4 @@ $_resultKey = "<?php /* [" . $_keyChunksContainer[0] . ";" . $_keyChunksContaine
  
   echo "<textarea rows=20 cols=100>". $_resultKey . "</textarea>";
 echo "<br><br>";
-echo "Av0id // REVENGE";
 ?>
